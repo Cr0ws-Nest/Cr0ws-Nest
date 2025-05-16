@@ -1,16 +1,21 @@
-## Hi there 👋
+**Currently**: ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=792580&width=435&lines=Practicing+cyber+divination;Automating+my+spellbook;Casting+Scrying+on+the+bad+guys;Delving+into+forbidden+tomes+(Annual+Reports))](https://git.io/typing-svg)
 
-<!--
-**Cr0ws-Nest/Cr0ws-Nest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **whoami**: CTI enthusiast and cyber diviner. Using the past to predict the future of the cyber landscape.
 
-Here are some ideas to get you started:
+🔮 **What Am I Doing**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `📓` **`Studying for the GCFA`**<br>
+\\___[ My toughest exam to date. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Incident Response`, `Digital Forensics`
+
+- `📝` **`Automating the boring stuff`**<br>
+\\___[ Making my life easier by automating basic IOC enrichment and resource discovery<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`
+
+- `💡` **`Training interns with CSFI`**<br>
+\\___[ Leading intern teams into the world of CTI.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `CTI`, `OSINT`
+
+⭐ **Certifications**: `GCIH`, `BTL1`, `GSEC`, `Security+`, `CCNA`, `GFACT`
+
+📝 **Reports**: I'm currently focused on the GCFA , but plan to start publishing blog posts and open reporting once time allows. Stay tuned!
