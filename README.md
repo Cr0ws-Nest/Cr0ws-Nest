@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=792580&width=435&lines=Currently%3A+Practicing+cyber+divination;Currently%3A+Automating+my+spellbook;Currently%3A+Casting+Scrying+on+the+bad+guys;Currently%3A+Delving+into+forbidden+tomes+(Annual+Reports))](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=792580&width=435&lines=Currently%3A+Practicing+cyber+divination;Currently%3A+Automating+my+spellbook;Currently%3A+Casting+Scrying+on+the+bad+guys;Currently%3A+Delving+into+Annual+Reports;Currently%3A+Wishing+APTs+got+dumb+names)](https://git.io/typing-svg)
 
 👋 **whoami**: CTI enthusiast and cyber diviner. Using the past to predict the future of the cyber landscape.
 
