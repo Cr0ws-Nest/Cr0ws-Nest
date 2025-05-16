@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Incident Response`, `Digital Forensics`
 
 - `📝` **`Automating the boring stuff`**<br>
-\\___[ Making my life easier by automating basic IOC enrichment and resource discovery<br>
+\\___[ Making my life easier by automating basic IOC enrichment and resource discovery.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`
 
 - `💡` **`Training interns with the CSFI`**<br>
