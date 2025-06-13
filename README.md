@@ -5,7 +5,7 @@
 🔮 **What Am I Doing**:
 
 - `📓` **`Studying for the GCFA`**<br>
-\\___[ My toughest exam to date. <br>
+\\___[ shimcache, amcache, and shadow volumes oh my! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Incident Response`, `Digital Forensics`
 
 - `📝` **`Automating the boring stuff`**<br>
@@ -17,5 +17,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `CTI`, `OSINT`
 
 ⭐ **Certifications**: `GCIH`, `BTL1`, `GSEC`, `Security+`, `CCNA`, `GFACT`
-
-📝 **Reports**: I'm currently focused on the GCFA , but plan to start publishing blog posts and open reporting once time allows. Stay tuned!
