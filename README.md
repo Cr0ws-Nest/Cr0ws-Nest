@@ -16,4 +16,4 @@
 \\___[ Leading intern teams into the world of CTI.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `CTI`, `OSINT`
 
-⭐ **Certifications**: `GCFA', GCIH`, `BTL1`, `GSEC`, `Security+`, `CCNA`, `GFACT`
+⭐ **Certifications**: `GCFA`, `GCIH`, `BTL1`, `GSEC`, `Security+`, `CCNA`, `GFACT`
